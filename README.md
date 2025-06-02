@@ -42,11 +42,3 @@ Se tudo estiver certo, ele criará um novo arquivo chamado `saida_processada.jpg
 | `to_grayscale()`| Converte para escala de cinza                 |
 | `resize_image()`| Redimensiona para tamanho (largura, altura)   |
 | `blur_image()`  | Aplica desfoque Gaussiano com raio definido   |
-
-## 📄 Licença
-
-MIT License. Use livremente e contribua com melhorias!
-
----
-
-Feito com ☕ + 🐍 por [Seu Nome Aqui]
